@@ -1,4 +1,5 @@
-# 算法笔记
+# # MachineLearningNote
+
 ## LogisticRegression
 关于回归方面的数据、文档、代码
 
